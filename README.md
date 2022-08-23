@@ -3,4 +3,4 @@
 - 📫 How to reach me 
   - Email: matheusoliveirajau@hotmail.com.br
   - Linkedin: https://www.linkedin.com/in/matheus-oliveira-684404208/
-  - instagram: https://www.instagram.com/theuzinho_oliveira
+  - instagram: https://www.instagram.com/theuzinhoow_/
