@@ -4,4 +4,4 @@
   - Email: matheusoliveirajau@hotmail.com.br
   - Linkedin: https://www.linkedin.com/in/matheus-oliveira-684404208/
   - instagram: https://www.instagram.com/theuzinhoow_/
-  ![Profile views](https://gpvc.arturio.dev/Cyberboy999)
+  - ![Profile views](https://gpvc.arturio.dev/Cyberboy999)
