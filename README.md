@@ -6,4 +6,4 @@
   - instagram: https://www.instagram.com/theuzinhoow_/
 
 How many people viewed my profile:
-  - ![Profile views](https://gpvc.arturio.dev/Cyberboy999)
+![Profile views](https://gpvc.arturio.dev/Cyberboy999)
