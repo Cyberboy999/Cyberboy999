@@ -19,4 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberboy999&show_icons=true&locale=en&layout=compact" alt="cyberboy999" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cyberboy999&show_icons=true&locale=en" alt="cyberboy999" /></p>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...
+img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
