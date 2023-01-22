@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
+<h1 align="center">Hi 👋, I'm Matheus Oliveira</h1>
 <h3 align="center">I do software engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberboy999&label=Profile%20views&color=7f0eb4&style=flat" alt="cyberboy999" /> </p>
 
+- 🔭 At the moment, I am working on improving my portfolio and projects
+
+- 👯 Working in Groups is amazing 
+
 - 📫 How to reach me **matheusoliveirajau@hotmail.com.br**
 
-- ⚡ Fun fact **I was a professional esports player :)**
+- ⚡ Fun fact **I've been a professional eSports player for 4 years**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
