@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matheus Oliveira</h1>
 <h3 align="center">I do software engineering</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberboy999&label=Profile%20views&color=7f0eb4&style=flat" alt="cyberboy999" /> </p>
 
 - 🔭 At the moment, I am working on improving my portfolio and projects
