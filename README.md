@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">I do software engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberboy999&label=Profile%20views&color=0e75b6&style=flat" alt="cyberboy999" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberboy999&label=Profile%20views&color=7f0eb4&style=flat" alt="cyberboy999" /> </p>
 
 - 📫 How to reach me **matheusoliveirajau@hotmail.com.br**
 
-- ⚡ Fun fact **I use the computer since I was 5 years old, making my own games and seeking to learn about technology**
+- ⚡ Fun fact **I was a professional esports player :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
