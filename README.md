@@ -18,6 +18,6 @@
 
 
 <div>
-  <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberboy999&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cyberboy999" /></p>
-  <p>&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberboy999&show_icons=true&theme=synthwave&locale=en" alt="cyberboy999" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberboy999&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="cyberboy999" />
+  &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cyberboy999&show_icons=true&theme=synthwave&locale=en" alt="cyberboy999" />
 <div/>
